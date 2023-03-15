@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.sy.pangu.common.support.query.interceptor.MybatisPluginAutoConfig
